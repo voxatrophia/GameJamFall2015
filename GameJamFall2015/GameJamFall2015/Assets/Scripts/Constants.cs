@@ -15,4 +15,5 @@ public static class k_Tags {
     public const string Player = "Player";
     public const string Bullet = "Bullet";
     public const string Freeze = "Freeze";
+    public const string Trigger = "Trigger";
 }
