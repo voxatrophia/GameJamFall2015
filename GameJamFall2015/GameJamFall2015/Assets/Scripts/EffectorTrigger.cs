@@ -9,6 +9,7 @@ public class EffectorTrigger : MonoBehaviour {
         if (other.CompareTag("Bullet")){
             if (Effector.activeInHierarchy) {
                 Effector.SetActive(false);
+                other.gameObject.SetActive(false);
             }
             else {
                 Effector.SetActive(true);

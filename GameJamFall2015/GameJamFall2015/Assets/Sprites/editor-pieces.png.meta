@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 64f515abb4d9b7e4985fb56ed84bfceb
+timeCreated: 1446427738
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Push_Field
+    21300002: Shoot_Power_Cone
+    21300004: Freeze_Power_Field
+    21300006: Jump_Power_Cone
+    21300008: Push_Cone
+    21300010: Pull_Cone
+    21300012: Pull_Field
+    21300014: Shoot_Power_Field
+    21300016: Jump_Power_Field
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 45.5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Push_Field
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 645
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoot_Power_Cone
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 666
+        width: 183
+        height: 183
+      alignment: 9
+      pivot: {x: .500000358, y: .863236547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Freeze_Power_Field
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_Power_Cone
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 439
+        width: 183
+        height: 183
+      alignment: 9
+      pivot: {x: .499999821, y: .870501399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Push_Cone
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 439
+        width: 183
+        height: 183
+      alignment: 9
+      pivot: {x: .514529705, y: .877765954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pull_Cone
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 440
+        width: 182
+        height: 183
+      alignment: 9
+      pivot: {x: .492695242, y: .870501399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pull_Field
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoot_Power_Field
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 230
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_Power_Field
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 114
+        width: 230
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
